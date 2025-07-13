@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction (ML Project)
+# 🧠 Customer Churn Prediction Using ML
 
 Predicts customer churn using the Telco dataset and a Random Forest model.
 
